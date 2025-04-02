@@ -1,0 +1,1 @@
+console.log('Today is a market day at Kede')
